@@ -1,0 +1,41 @@
+/ write all your inputs here
+/ lines starting with "/" would be ingored by code
+/ Vv
+20
+/ Vm
+10
+/ c1
+1
+/ c2
+0
+/ c3
+1
+/ Ts
+1
+/ Ls
+1
+/ m
+100000
+/ graph 
+/ number of edges
+5
+/ edges (source, destination, distance, time)
+A,B,1,1
+B,C,2,1
+B,E,1,1
+E,D,1,1
+B,D,2,1
+/ stepSize
+2
+/ epochs
+3
+/ number of parcels 
+3
+/ parcels (destination, weight, volume, PC)
+C,5,10,100 
+E,5,10,50
+D,7,4,140
+/ start location 
+A
+/ end location
+C
