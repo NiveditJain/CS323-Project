@@ -1,6 +1,3 @@
-import matplotlib.pyplot as plt
-import networkx as nx
-
 def get_line():
     line = input()
     while(line[0] == '/'):
@@ -67,6 +64,12 @@ def get_best():
 
 
 def display(path, start):
+
+    print("Starting Display ......")
+
+    import matplotlib.pyplot as plt
+    import networkx as nx
+
 
     optimal_path = list()
     prev = start

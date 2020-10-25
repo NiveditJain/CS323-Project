@@ -1,0 +1,18 @@
+/ number of cities
+10
+/ mu1
+60
+/ sigma1
+10
+/ number_metros
+2
+/ number_remote
+3
+/ aplha
+0.2
+/ mu2
+60
+/ sigma2
+10
+/ c
+2
