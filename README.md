@@ -82,7 +82,7 @@ to generate map on linux/macOS,
 
 ```
 cd solver
-python3 generate_map.py < input.txt
+python3 generate_map.py < map_input.txt
 ```
 
 ## REPORT
