@@ -1,3 +1,5 @@
+import math
+
 def get_line():
     line = input()
     while(line[0] == '/'):
@@ -136,7 +138,9 @@ start = get_line()
 
 end = get_line()
 
-for epoch in range(1,epochs+1):
+number_cities = len(Graph.keys())
+
+for epoch in range(1,min(epochs, int(math.ceil((number_cities*(number_cities - 1))/(2 * stepSize))))+1):
     print(f"running epoch{epoch}, best solution found : ", end="")
     
     parcel_set = []

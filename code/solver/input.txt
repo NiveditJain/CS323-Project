@@ -28,7 +28,7 @@ B,D,2,1
 / stepSize
 2
 / epochs
-3
+10
 / number of parcels 
 3
 / parcels (destination, weight, volume, PC)
