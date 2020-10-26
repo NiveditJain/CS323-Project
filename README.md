@@ -86,7 +86,7 @@ python3 generate_map.py < map_input.txt
 ```
 
 ## CODE PRESENTATION
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/QOHG0n-iUNQ/1.jpg)](http://www.youtube.com/watch?v=QOHG0n-iUNQ "Code Presentation Video")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/QOHG0n-iUNQ/0.jpg)](http://www.youtube.com/watch?v=QOHG0n-iUNQ "Code Presentation Video")
 
 ## REPORT
 <a href="https://github.com/NiveditJain/CS323-Project/raw/master/Report/PDF.pdf">Download PDF</a>
