@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=CS323-Project.visitor-badge)
 
 ## SHORT PROJECT INTRO
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8E9cT4DOaHk?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/8E9cT4DOaHk/0.jpg)](http://www.youtube.com/watch?v=8E9cT4DOaHk "Short Introduction")
 
 ## HOW TO RUN?
 
