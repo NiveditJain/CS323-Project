@@ -71,6 +71,19 @@ to run solver on linux/macOS,
 cd solver
 python3 solver.py < input.txt
 ```
+to generate map on windows,
+
+```
+cd generator
+python generate_map.py < map_input.txt
+```
+
+to generate map on linux/macOS,
+
+```
+cd solver
+python3 generate_map.py < input.txt
+```
 
 ## REPORT
 <a href="https://github.com/NiveditJain/CS323-Project/raw/master/Report/PDF.pdf">Download PDF</a>
