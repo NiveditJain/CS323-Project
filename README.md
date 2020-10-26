@@ -53,5 +53,24 @@ pip3 install -r requirements.txt
 ```
 make sure that requirements.txt is in your working directory. If requirements not installed properly, install all requirements from requirements.txt manually.
 
+### Input
+Make necessary changes to `\code\solver\input.txt` or `\code\generator\map_input.txt` (please watch code presentation, to know necessary details)
+
+### Run Files
+to run solver, run the following commands (we assumed your current directory is code) <br>
+to run solver on windows,
+
+```
+cd solver
+python solver.py < input.txt
+```
+
+to run solver on linux/macOS,
+
+```
+cd solver
+python3 solver.py < input.txt
+```
+
 ## REPORT
 <a href="https://github.com/NiveditJain/CS323-Project/raw/master/Report/PDF.pdf">Download PDF</a>
