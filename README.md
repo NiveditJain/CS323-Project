@@ -8,6 +8,9 @@
 ## SHORT PROJECT INTRO
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/8E9cT4DOaHk/0.jpg)](http://www.youtube.com/watch?v=8E9cT4DOaHk "Short Introduction")
 
+## DETAILED PROJECT VIDEO
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/R2m_LgxQHck/0.jpg)](http://www.youtube.com/watch?v=R2m_LgxQHck "Detailed Project Video")
+
 ## HOW TO RUN?
 
 ### Get Code
